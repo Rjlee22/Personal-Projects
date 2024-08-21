@@ -4,6 +4,6 @@ These projects  are a way for me to learn,challenge and apply some of the concep
 
 <h2> List of Projects </h2>
 
-1. [Predicting Heart Attacks](https://github.com/Rjlee22/Personal-Projects/tree/main/heart_attack) : [Project Repo](https://github.com/Rjlee22/Personal-Projects/tree/main/heart_attack) | 
-   Timeframe: August 20 to August 21, 2024
+1. Predicting Heart Attacks: [Project Repo](https://github.com/Rjlee22/Personal-Projects/tree/main/heart_attack) 
+|Timeframe: August 20 to August 21, 2024
 
